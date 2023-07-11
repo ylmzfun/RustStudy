@@ -13,54 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba400aa5-8530-475b-80b8-575febab7d33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/RustStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/L1-4d2c759935c23967/bin-L1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/L1-4d2c759935c23967/bin-L1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/L1-4d2c759935c23967/output-bin-L1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/L1.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/deps/L1-4d2c759935c23967.14ensrmnl6xn9mkp.rcgu.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/deps/L1-4d2c759935c23967.18xa4ixgdeb1lzt5.rcgu.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/deps/L1-4d2c759935c23967.1z6ma4cwek3thse9.rcgu.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/deps/L1-4d2c759935c23967.3tb1s3v6qec34fsz.rcgu.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/deps/L1-4d2c759935c23967.3zfmphfbgpwqkkdc.rcgu.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/deps/L1-4d2c759935c23967.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/debug/deps/L1-4d2c759935c23967.p5cs1771jylmqx.rcgu.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/func/func.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/f1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/.rustc_info.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/CACHEDIR.TAG" beforeDir="false" afterPath="$PROJECT_DIR$/target/CACHEDIR.TAG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/.cargo-lock" beforeDir="false" afterPath="$PROJECT_DIR$/src/f1/f2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/.fingerprint/f1-442444c185d562a1/bin-f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/.fingerprint/f1-442444c185d562a1/bin-f1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/.fingerprint/f1-442444c185d562a1/dep-bin-f1" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/L1-4d2c759935c23967/dep-bin-L1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/.fingerprint/f1-442444c185d562a1/invoked.timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.fingerprint/L1-4d2c759935c23967/invoked.timestamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/deps/f1-442444c185d562a1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/deps/f1-442444c185d562a1.14zlba6gq0jtkz0p.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/deps/f1-442444c185d562a1.15vuimgrm8411sb1.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/deps/f1-442444c185d562a1.1p9coazbpoz7frvn.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/deps/f1-442444c185d562a1.2j6vlfd16citdxct.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/deps/f1-442444c185d562a1.528sisziqu9schvq.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/deps/f1-442444c185d562a1.5c39aehho382cf59.rcgu.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/deps/f1-442444c185d562a1.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/f1" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/L1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/f1.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/incremental/f1-ied73pjjyzdi/s-gmi16zrmk3-1jy2t1x-1l56jdfra66e/14zlba6gq0jtkz0p.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/incremental/f1-ied73pjjyzdi/s-gmi16zrmk3-1jy2t1x-1l56jdfra66e/15vuimgrm8411sb1.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/incremental/f1-ied73pjjyzdi/s-gmi16zrmk3-1jy2t1x-1l56jdfra66e/1p9coazbpoz7frvn.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/incremental/f1-ied73pjjyzdi/s-gmi16zrmk3-1jy2t1x-1l56jdfra66e/2j6vlfd16citdxct.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/incremental/f1-ied73pjjyzdi/s-gmi16zrmk3-1jy2t1x-1l56jdfra66e/528sisziqu9schvq.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/incremental/f1-ied73pjjyzdi/s-gmi16zrmk3-1jy2t1x-1l56jdfra66e/5c39aehho382cf59.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/incremental/f1-ied73pjjyzdi/s-gmi16zrmk3-1jy2t1x-1l56jdfra66e/dep-graph.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/incremental/f1-ied73pjjyzdi/s-gmi16zrmk3-1jy2t1x-1l56jdfra66e/query-cache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/incremental/f1-ied73pjjyzdi/s-gmi16zrmk3-1jy2t1x-1l56jdfra66e/work-products.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first/f1/target/debug/incremental/f1-ied73pjjyzdi/s-gmi16zrmk3-1jy2t1x.lock" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/.cargo-lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +57,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.cidr.embedded.config&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -143,7 +97,10 @@
       <option name="presentableId" value="Default" />
       <updated>1688473579367</updated>
       <workItem from="1688473580879" duration="1672000" />
-      <workItem from="1688521440978" duration="933000" />
+      <workItem from="1688521440978" duration="1328000" />
+      <workItem from="1688542729913" duration="199000" />
+      <workItem from="1688545322169" duration="489000" />
+      <workItem from="1688865110363" duration="598000" />
     </task>
     <servers />
   </component>
