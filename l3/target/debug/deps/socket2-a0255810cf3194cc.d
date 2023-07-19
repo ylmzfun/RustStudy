@@ -1,0 +1,11 @@
+/Users/mazheng/Public/Rust/RustStudy/l3/target/debug/deps/socket2-a0255810cf3194cc.rmeta: /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/lib.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/sockaddr.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/socket.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/sockref.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/sys/unix.rs
+
+/Users/mazheng/Public/Rust/RustStudy/l3/target/debug/deps/libsocket2-a0255810cf3194cc.rlib: /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/lib.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/sockaddr.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/socket.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/sockref.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/sys/unix.rs
+
+/Users/mazheng/Public/Rust/RustStudy/l3/target/debug/deps/socket2-a0255810cf3194cc.d: /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/lib.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/sockaddr.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/socket.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/sockref.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/sys/unix.rs
+
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/lib.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/sockaddr.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/socket.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/sockref.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.9/src/sys/unix.rs:

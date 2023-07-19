@@ -1,0 +1,1 @@
+{"rustc":16112765974880228268,"features":"[\"alloc\", \"default\", \"std\"]","target":2554387532069285207,"profile":8344124108420085910,"path":1232977360246590555,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/yansi-ec6c88750c191732/dep-lib-yansi"}}],"rustflags":[],"metadata":17119822801374816370,"config":2202906307356721367,"compile_kind":0}

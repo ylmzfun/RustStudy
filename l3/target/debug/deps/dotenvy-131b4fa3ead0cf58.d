@@ -1,0 +1,11 @@
+/Users/mazheng/Public/Rust/RustStudy/l3/target/debug/deps/dotenvy-131b4fa3ead0cf58.rmeta: /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/lib.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/errors.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/find.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/iter.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/parse.rs
+
+/Users/mazheng/Public/Rust/RustStudy/l3/target/debug/deps/libdotenvy-131b4fa3ead0cf58.rlib: /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/lib.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/errors.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/find.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/iter.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/parse.rs
+
+/Users/mazheng/Public/Rust/RustStudy/l3/target/debug/deps/dotenvy-131b4fa3ead0cf58.d: /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/lib.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/errors.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/find.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/iter.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/parse.rs
+
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/lib.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/errors.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/find.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/iter.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/dotenvy-0.15.7/src/parse.rs:

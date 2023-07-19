@@ -1,0 +1,10 @@
+/Users/mazheng/Public/Rust/RustStudy/l3/target/debug/deps/crossbeam_queue-580dd04a4ddcc32f.rmeta: /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/lib.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/array_queue.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/err.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/seg_queue.rs
+
+/Users/mazheng/Public/Rust/RustStudy/l3/target/debug/deps/libcrossbeam_queue-580dd04a4ddcc32f.rlib: /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/lib.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/array_queue.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/err.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/seg_queue.rs
+
+/Users/mazheng/Public/Rust/RustStudy/l3/target/debug/deps/crossbeam_queue-580dd04a4ddcc32f.d: /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/lib.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/array_queue.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/err.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/seg_queue.rs
+
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/lib.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/array_queue.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/err.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/crossbeam-queue-0.2.3/src/seg_queue.rs:
