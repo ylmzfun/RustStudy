@@ -1,0 +1,1 @@
+/Users/mazheng/Public/base/rust/RustStudy/l6/hello-near-rust-main/contract/target/wasm32-unknown-unknown/release/contract.wasm: /Users/mazheng/Public/base/rust/RustStudy/l6/hello-near-rust-main/contract/src/lib.rs

@@ -1,0 +1,10 @@
+/Users/mazheng/Public/base/rust/RustStudy/l6/hello-near-rust-main/contract/target/release/deps/version_check-05034c3606b141e9.rmeta: /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/lib.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/version.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/channel.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/date.rs
+
+/Users/mazheng/Public/base/rust/RustStudy/l6/hello-near-rust-main/contract/target/release/deps/libversion_check-05034c3606b141e9.rlib: /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/lib.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/version.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/channel.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/date.rs
+
+/Users/mazheng/Public/base/rust/RustStudy/l6/hello-near-rust-main/contract/target/release/deps/version_check-05034c3606b141e9.d: /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/lib.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/version.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/channel.rs /Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/date.rs
+
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/lib.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/version.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/channel.rs:
+/Users/mazheng/.cargo/registry/src/mirrors.ustc.edu.cn-12df342d903acd47/version_check-0.9.4/src/date.rs:
